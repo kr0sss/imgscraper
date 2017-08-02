@@ -1,7 +1,10 @@
 # imgscraper
 Simple image scraper
 
-# Usage: 
+### Usage
 
-Execute 'python3 imgscraper.py' and introduce the URL of the website you want to scrape 'http://...'
+```sh
+$ python3 imgscraper.py
+$ Introduce the URL to scrape: http://www.google.es
+```
 
